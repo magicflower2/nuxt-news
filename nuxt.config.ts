@@ -1,6 +1,6 @@
 export default defineNuxtConfig({
   app: {
-    baseURL: "/news/",
+    baseURL: "/",
   },
   postcss: {
     plugins: {
